@@ -1,16 +1,29 @@
-# React + Vite
+# Random String Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React application that generates random strings based on user-selected options. Users can customize the string length and choose which character types to include.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Generate random strings instantly
+- Select string length
+- Include uppercase letters,lowercase letters
+- Include special characters (if checked the checkbox)
+- Copy generated string to clipboard
+- Responsive UI built with Tailwind CSS
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- Vite
+- Tailwind CSS
+- JavaScript
 
-## Expanding the ESLint configuration
+## Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Default Page
+
+![Home](./Images/task2 home.png)
+
+### Customized String
+
+![Generated](./Images/task2 custom.png)
