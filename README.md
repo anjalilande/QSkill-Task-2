@@ -1,29 +1,50 @@
-# Random String Generator
+#  Random String Generator
 
-A React application that generates random strings based on user-selected options. Users can customize the string length and choose which character types to include.
+A React application that generates secure random strings based on user-selected options. Users can customize the string length and choose the character types to include.
 
-## Features
+---
+
+## Features ✨
 
 - Generate random strings instantly
-- Select string length
-- Include uppercase letters,lowercase letters
-- Include special characters (if checked the checkbox)
+- Customize string length
+- Include uppercase letters
+- Include lowercase letters
+- Include numbers
+- Include special characters
 - Copy generated string to clipboard
 - Responsive UI built with Tailwind CSS
 
-## Tech Stack
+---
+
+## Tech Stack 🛠️
 
 - React
 - Vite
 - Tailwind CSS
 - JavaScript
 
-## Preview
+---
 
-### Default Page
+## 📸 Preview
 
-![Home](./Images/home.png)
+###  Default Page
 
-### Customized String
+<p align="center">
+  <img src="./Images/home.png" alt="Home Page" width="400"/>
+</p>
 
-![Generated](./Images/custom.png)
+###  Generated String
+
+<p align="center">
+  <img src="./Images/custom.png" alt="Generated String" width="400"/>
+</p>
+
+---
+
+## 🚀 Getting Started
+
+```bash
+npm install
+npm run dev
+```
