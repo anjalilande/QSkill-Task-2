@@ -26,15 +26,14 @@ A React application that generates secure random strings based on user-selected 
 
 ---
 
-## 📸 Preview
 
-###  Default Page
+###  Default Page:-
 
 <p align="center">
   <img src="./Images/home.png" alt="Home Page" width="400"/>
 </p>
 
-###  Generated String
+###  Generated String:-
 
 <p align="center">
   <img src="./Images/custom.png" alt="Generated String" width="400"/>
