@@ -22,8 +22,8 @@ A React application that generates random strings based on user-selected options
 
 ### Default Page
 
-![Home](./Images/task2 home.png)
+![Home](./Images/home.png)
 
 ### Customized String
 
-![Generated](./Images/task2 custom.png)
+![Generated](./Images/custom.png)
